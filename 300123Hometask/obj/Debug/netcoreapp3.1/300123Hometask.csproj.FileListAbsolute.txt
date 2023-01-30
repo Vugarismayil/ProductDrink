@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\bin\Debug\netcoreapp3.1\300123Hometask.exe
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\bin\Debug\netcoreapp3.1\300123Hometask.deps.json
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\bin\Debug\netcoreapp3.1\300123Hometask.runtimeconfig.json
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\bin\Debug\netcoreapp3.1\300123Hometask.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\bin\Debug\netcoreapp3.1\300123Hometask.dll
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\bin\Debug\netcoreapp3.1\300123Hometask.pdb
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.dll
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.pdb
+C:\Users\ivuqa\source\repos\300123Hometask\300123Hometask\obj\Debug\netcoreapp3.1\300123Hometask.genruntimeconfig.cache
