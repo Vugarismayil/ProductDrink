@@ -7,44 +7,21 @@ namespace _300123Hometask
     {
         static void Main(string[] args)
         {
-            Drink drink = new Drink();
-            string Name;
-            do
+            Drink drink = new Drink
             {
-                Console.WriteLine("Mehsulun adi:");
-                Name = Console.ReadLine();
+                Name = "NZS",
+                Price = 1.20,
+                AlcoholPercent1 = 3.5
 
-            } while (Chechknumber(Name));
-
-            double Price;
-            do
-            {
-                Console.WriteLine("Mehsulun qiymeti:");
-                Price = Convert.ToDouble(Console.ReadLine());
-
-            } while (Price == 0);
-
-            double AlcoholPercent1;
-            do
-            {
-
-                Console.WriteLine("Alkoqol Faizi:");
-                AlcoholPercent1 = Convert.ToDouble(Console.ReadLine());
+            };
+            Console.WriteLine($"Name: {drink.Name} Price: {drink.Price} Alcohol Percent: {drink.AlcoholPercent1}");
+            
+            
 
 
 
 
-            } while (AlcoholPercent1 == 0);
-
-        }
-        static bool Chechknumber(string Name)
-        {
-            for (int i = 1; i < Name.Length; i++)
-            {
-                if (!char.IsDigit(Name[i]))
-                    return false;
-            }
-            return true;
+            
         }
     }
 }

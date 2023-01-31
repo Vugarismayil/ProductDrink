@@ -17,7 +17,7 @@ namespace _300123Hometask
             }
             set
             {
-                if (value.Length >= 2 && value.Length <= 20)
+                if (value.Length > 1 && value.Length < 21)
                 {
                     _name = value;
                 }
